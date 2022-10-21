@@ -9,8 +9,8 @@ tags = [
     "Noob",
 ]
 categories = [
-    "themes",
-    "syntax",
+    "Minecraft",
+    "PVP",
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
@@ -33,7 +33,7 @@ PVP是 player vs player 的简写,其强调装备对等，输赢判断一般是�
 
 无论是在FPS游戏中还是这个破烂方块人游戏，瞄准无疑是最基础的
 
-###### 如何训练瞄准：
+##### 如何训练瞄准：
 
 1.将你的视角调到87及以下
 
@@ -57,7 +57,7 @@ PVP是 player vs player 的简写,其强调装备对等，输赢判断一般是�
 
 定义：有规律的点击前进键，来实现与对方拉开距离，让其处于被动局面的一种技巧
 
-##### 注意：并不是打一下按一次，而是离对方过进时拉开距离才用Wtap
+#### 注意：并不是打一下按一次，而是离对方过进时拉开距离才用Wtap
 
 
 
