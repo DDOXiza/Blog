@@ -27,8 +27,6 @@ image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 
 PVP是 player vs player 的简写,其强调装备对等，输赢判断一般是以一方血量是否为0
 
-
-
 ## 瞄准
 
 无论是在FPS游戏中还是这个破烂方块人游戏，瞄准无疑是最基础的
@@ -43,13 +41,9 @@ PVP是 player vs player 的简写,其强调装备对等，输赢判断一般是�
 
 大约几星期，效果就会出来
 
-
-
 ## 点击方式
 
 平点即可，练多了cps(每秒点击次数)自然会往上升
-
-
 
 ## Wtap
 
@@ -59,15 +53,11 @@ PVP是 player vs player 的简写,其强调装备对等，输赢判断一般是�
 
 #### 注意：并不是打一下按一次，而是离对方过进时拉开距离才用Wtap
 
-
-
 ## Strafe
 
 不是ADtap，不是ADtap，不是ADtap，重要的事情说三遍
 
 在对刀时，通过左右移动来避开对手瞄准，这个练久了自然会懂
-
-
 
 ## Jump Reset
 
@@ -77,15 +67,11 @@ PVP是 player vs player 的简写,其强调装备对等，输赢判断一般是�
 
 多玩sumo自然就会了
 
-
-
 ## 快捷键
 
 这个真的很重要，自救时派上大用处
 
 推荐几个：G,F,Z,X,R,Tab
-
-
 
 ## 有没有什么提升技术的好办法
 
