@@ -1,4 +1,4 @@
-baseurl: https://ddoxizablog.netlify.app/
+baseurl: DDOXizaの博客
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
