@@ -1,17 +1,17 @@
-baseurl: https://example.com/
-languageCode: zh-cn
+baseurl: https://example.com
+languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: DDOXiza's Blog
+title: Example Site
 
 languages:
     en:
         languageName: English
-        title: DDOXiza's Blog
+        title: Example Site
         weight: 1
     zh-cn:
         languageName: 中文
-        title: DDOXiza的博客
+        title: 演示站点
         weight: 2
     ar:
         languageName: عربي
@@ -27,7 +27,7 @@ googleAnalytics:
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
-DefaultContentLanguage: zh-cn
+DefaultContentLanguage: en
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
@@ -54,7 +54,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: 这是我的博客，来看看吧
+        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         avatar:
             enabled: true
             local: true
