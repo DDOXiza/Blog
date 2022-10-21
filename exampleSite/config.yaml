@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: https://ddoxizablog.netlify.app/
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
@@ -54,7 +54,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: 这是我的博客，来看看吧
         avatar:
             enabled: true
             local: true
