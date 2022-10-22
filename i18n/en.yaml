@@ -1,8 +1,8 @@
 toggleMenu:
-    other: Toggle Menu
+    other: 切换菜单
 
 darkMode:
-    other: Dark Mode
+    other: 暗色模式
 
 list:
     page:
@@ -18,24 +18,24 @@ list:
 
 article:
     back:
-        other: Back
+        other: 返回
 
     tableOfContents:
-        other: Table of contents
+        other: 目录
 
     relatedContent:
-        other: Related content
+        other: 相关文章
 
     lastUpdatedOn:
-        other: Last updated on
-
+        other: 最后更新于
+        
     readingTime:
-        one: "{{ .Count }} minute read"
-        other: "{{ .Count }} minute read"
+        one: "阅读时长: {{ .Count }} 分钟"
+        other: "阅读时长: {{ .Count }} 分钟"
 
 notFound:
-    title:
-        other: Not Found
+    title: 404 错误
+        other: 页面不存在
 
     subtitle:
         other: This page does not exist
@@ -43,31 +43,31 @@ notFound:
 widget:
     archives:
         title:
-            other: Archives
+            other: 归档
 
         more:
-            other: More
+            other: 更多
 
     tagCloud:
         title:
-            other: Tags
+            other: 标签云
     categoriesCloud:
         title:
-            other: Categories
+            other: 分类
 
 search:
     title:
-        other: Search
+        other: 搜索
 
     placeholder:
-        other: Type something...
+        other: 输入关键词...
 
     resultTitle:
-        other: "#PAGES_COUNT pages (#TIME_SECONDS seconds)"
+        other: "#PAGES_COUNT 个结果 （用时 #TIME_SECONDS 秒）"
 
 footer:
     builtWith:
         other: Built with {{ .Generator }}
 
     designedBy:
-        other: Theme {{ .Theme }} designed by {{ .DesignedBy }}
+        other: 主题 {{ .Theme }} 由 {{ .DesignedBy }} 设计
